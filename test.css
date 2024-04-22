@@ -1,0 +1,24 @@
+.grid {
+    border: 2px dashed black;
+    width: 22px;
+    height: 22px;
+    padding-left:4px;
+    padding-top:4px;
+    
+}
+
+#table {
+    display: inline-table;
+}
+
+#tableColor {
+    position:relative;
+    display: inline-table;
+    margin-left: 12%;;
+}
+
+#submitButton {
+    width: 50%;
+    background-color: rgb(254, 128, 25);
+    color: rgba(12, 249, 99, 0.922);
+}
